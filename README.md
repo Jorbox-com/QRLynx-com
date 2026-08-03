@@ -1,14 +1,14 @@
 # QRLynx - The Smart, Dynamic QR Code Generator
 
-Welcome to the public issue tracker, roadmap, and documentation repository for **[QRLynx](https://qrlynx.com)**. 
+Welcome to the public issue tracker, roadmap, and documentation repository for **[QRLynx](https://qrlynx.com)**.
 
-QRLynx is a professional QR code generator that lets you create, customize, and track QR codes with real-time analytics. Trusted by over 50,000 businesses across 180+ countries, our platform bridges offline assets with highly optimized digital journeys. 
+QRLynx is a professional QR code generator that lets you create, customize, and track QR codes with real-time analytics, bridging offline assets with optimized digital journeys.
 
 QRLynx goes beyond standard image generation by acting as an intelligent routing agent for your traffic:
 * **Smart Redirect Rules:** Dynamically route users based on their device type, country, language, or time of day to automatically optimize user journeys.
-* **Readability Score:** Ensure your QR codes are 100% scannable with AI verification of contrast, density, and error correction before printing.
+* **Readability Score:** Check contrast, density, and error correction before printing, so you catch a hard-to-scan code while it is still cheap to fix.
 
-## 🚀 Enterprise-Grade Features
+## Features
 Everything you need to create, manage, and track QR codes at any scale:
 
 * **Dynamic URL Editing:** Change the destination URL anytime, even after printing, allowing you to fix typos, update content, or rotate offers without reprinting.
@@ -16,25 +16,28 @@ Everything you need to create, manage, and track QR codes at any scale:
 * **Retargeting Pixels:** Boost conversions by integrating Facebook Pixel and Google Analytics to retarget users who scan your QR codes.
 * **Lead Generation Forms:** Capture leads directly with built-in forms to collect emails, names, and phone numbers before redirecting to content.
 * **Advanced Customization:** Align with your brand identity using custom colors, logos, frames, and patterns to stand out from the crowd.
-* **Access Consent Gate:** Ensure GDPR/CCPA compliance by requiring user acknowledgment or age verification before accessing your content.
+* **Access Consent Gate:** Support GDPR/CCPA compliance workflows by requiring user acknowledgment or age verification before accessing your content.
 * **Password Protection:** Secure confidential content with password gates to ensure only authorized users can access your sensitive data.
 * **Document Scanner:** Turn physical documents into PDF files instantly by scanning with your camera or uploading images.
+* **Public REST API:** Create and repoint dynamic codes and read scan analytics from your own systems using scoped, revocable API keys. Available on Business and above.
 
-## 📊 Scale & Infrastructure
-* **99.9% Uptime Guarantee:** Built on a global CDN ensuring lightning-fast redirects and low latency worldwide.
-* **Proven Reliability:** Over 10 million QR codes created and 50 million scans tracked globally.
-* **Versatility:** Create over 40 QR code types, including URL, PDF, vCard, WiFi, Email, SMS, and Location.
-* **High-Res Downloads:** Export QR codes and PDFs in vector (SVG, EPS) or raster (PNG, JPG) formats for billboards, packaging, and digital use.
+## Scale & Infrastructure
+* **Global Edge Routing:** Dynamic QR scans route through Cloudflare's global network for fast, reliable redirects worldwide.
+* **Versatility:** Create 61 QR code types, including URL, PDF, vCard, WiFi, Email, SMS, and Location.
+* **High-Res Downloads:** Export QR codes in vector (SVG, PDF) or raster (PNG, JPG, WebP, PNG HD) formats for billboards, packaging, and digital use.
 * **White Label Domains:** Establish brand trust with custom domains (e.g., qr.yourbrand.com) and remove third-party branding completely.
 
-## 💡 Transparent Pricing
-We believe in fair pricing with no expiration traps or hidden fees:
-* **Starter ($0/Month):** Get unlimited static QR codes, 1 dynamic QR code, 1,000 scans/month, and zero watermarks.
-* **Pro ($14/Month):** Unlock 50 dynamic codes, 25,000 scans/month, custom logo uploads, and 30-day analytics.
-* **Business ($29/Month):** Features 250 dynamic codes, advanced 60-day analytics (device/OS/browser data), lead forms, and smart redirect rules.
-* **Enterprise ($99/Month):** Unlocks 1,000 dynamic codes, unlimited scans, white-label domains, retargeting pixels, and a dedicated success manager.
+## Transparent Pricing
+We believe in fair pricing with no expiration traps or hidden fees. Every plan includes unlimited static QR codes and unlimited scans:
+* **Starter ($0/Month):** 5 active dynamic QR codes, zero watermarks, no scan ads, 3 months of analytics, AI scan summaries, custom logo upload, and PDF QR support.
+* **Starter+ ($7/Month):** 50 dynamic codes, 10 folders, SVG and PDF vector downloads, Full AI Insights, and 1 year of analytics.
+* **Pro ($14/Month):** 300 dynamic codes, password protection, smart redirect rules, access consent, expiry and scheduling, bulk creation, and 2 years of analytics.
+* **Business ($29/Month):** 1,000 dynamic codes, city/device/browser analytics, CSV export, lead forms, email scan summaries, team workspaces for 10 members, public REST API, and 3 years of analytics.
+* **Enterprise ($99/Month):** 5,000 dynamic codes, white-label domains, retargeting pixels, teams for 100 members, and unlimited analytics.
 
-## 🤝 Community & Support
-This repository is used for public feature tracking. If you need immediate assistance or want to start a 14-day free trial of our premium features, please visit our main site.
-* [Start a Free Trial](https://qrlynx.com)
-* [Contact Premium Support](https://qrlynx.com) - Get 24/7 priority assistance from our dedicated success team.
+Annual billing is available on every paid plan at roughly 17% off.
+
+## Community & Support
+This repository is used for public feature tracking. If you need assistance, please visit our main site.
+* [Get Started Free](https://qrlynx.com)
+* [Contact Support](https://qrlynx.com)
