@@ -29,7 +29,7 @@ Everything you need to create, manage, and track QR codes at any scale:
 
 ## Transparent Pricing
 We believe in fair pricing with no expiration traps or hidden fees. Every plan includes unlimited static QR codes and unlimited scans:
-* **Starter ($0/Month):** 5 active dynamic QR codes, zero watermarks, no scan ads, 3 months of analytics, AI scan summaries, custom logo upload, and PDF QR support.
+* **Starter ($0/Month):** 3 active dynamic QR codes, zero watermarks, no scan ads, 3 months of analytics, AI scan summaries, custom logo upload, and PDF QR support.
 * **Starter+ ($7/Month):** 50 dynamic codes, 10 folders, SVG and PDF vector downloads, Full AI Insights, and 1 year of analytics.
 * **Pro ($14/Month):** 300 dynamic codes, password protection, smart redirect rules, access consent, expiry and scheduling, bulk creation, and 2 years of analytics.
 * **Business ($29/Month):** 1,000 dynamic codes, city/device/browser analytics, CSV export, lead forms, email scan summaries, team workspaces for 10 members, public REST API, and 3 years of analytics.
