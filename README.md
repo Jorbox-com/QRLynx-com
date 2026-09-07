@@ -24,13 +24,13 @@ Everything you need to create, manage, and track QR codes at any scale:
 ## Scale & Infrastructure
 * **Global Edge Routing:** Dynamic QR scans route through Cloudflare's global network for fast, reliable redirects worldwide.
 * **Versatility:** Create 61 QR code types, including URL, PDF, vCard, WiFi, Email, SMS, and Location.
-* **High-Res Downloads:** Export QR codes in vector (SVG, PDF) or raster (PNG, JPG, WebP, PNG HD) formats for billboards, packaging, and digital use.
+* **High-Res Downloads:** Export QR codes as scalable SVG artwork, A4 PDFs containing a high-resolution QR image, or raster images (PNG, JPG, WebP, PNG HD) for packaging, print layouts, and digital use.
 * **White Label Domains:** Establish brand trust with custom domains (e.g., qr.yourbrand.com) and remove third-party branding completely.
 
 ## Transparent Pricing
 We believe in fair pricing with no expiration traps or hidden fees. Every plan includes unlimited static QR codes and unlimited scans:
 * **Starter ($0/Month):** 3 active dynamic QR codes, zero watermarks, no scan ads, 3 months of analytics, AI scan summaries, custom logo upload, and PDF QR support.
-* **Starter+ ($7/Month):** 50 dynamic codes, 10 folders, SVG and PDF vector downloads, Full AI Insights, and 1 year of analytics.
+* **Starter+ ($7/Month):** 50 dynamic codes, 10 folders, vector SVG and PDF downloads, Full AI Insights, and 1 year of analytics.
 * **Pro ($14/Month):** 300 dynamic codes, password protection, smart redirect rules, access consent, expiry and scheduling, bulk creation, and 2 years of analytics.
 * **Business ($29/Month):** 1,000 dynamic codes, city/device/browser analytics, CSV export, lead forms, email scan summaries, team workspaces for 10 members, public REST API, and 3 years of analytics.
 * **Enterprise ($99/Month):** 5,000 dynamic codes, white-label domains, retargeting pixels, teams for 100 members, and unlimited analytics.
